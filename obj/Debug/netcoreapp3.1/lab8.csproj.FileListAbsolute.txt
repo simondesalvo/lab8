@@ -1,0 +1,12 @@
+/Users/simon/Documents/GrandCircus/lab8/bin/Debug/netcoreapp3.1/lab8.deps.json
+/Users/simon/Documents/GrandCircus/lab8/bin/Debug/netcoreapp3.1/lab8.runtimeconfig.json
+/Users/simon/Documents/GrandCircus/lab8/bin/Debug/netcoreapp3.1/lab8.runtimeconfig.dev.json
+/Users/simon/Documents/GrandCircus/lab8/bin/Debug/netcoreapp3.1/lab8.dll
+/Users/simon/Documents/GrandCircus/lab8/bin/Debug/netcoreapp3.1/lab8.pdb
+/Users/simon/Documents/GrandCircus/lab8/obj/Debug/netcoreapp3.1/lab8.csprojAssemblyReference.cache
+/Users/simon/Documents/GrandCircus/lab8/obj/Debug/netcoreapp3.1/lab8.AssemblyInfoInputs.cache
+/Users/simon/Documents/GrandCircus/lab8/obj/Debug/netcoreapp3.1/lab8.AssemblyInfo.cs
+/Users/simon/Documents/GrandCircus/lab8/obj/Debug/netcoreapp3.1/lab8.csproj.CoreCompileInputs.cache
+/Users/simon/Documents/GrandCircus/lab8/obj/Debug/netcoreapp3.1/lab8.dll
+/Users/simon/Documents/GrandCircus/lab8/obj/Debug/netcoreapp3.1/lab8.pdb
+/Users/simon/Documents/GrandCircus/lab8/obj/Debug/netcoreapp3.1/lab8.genruntimeconfig.cache
